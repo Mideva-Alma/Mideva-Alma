@@ -1,16 +1,83 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c25f5970-1461-4edc-9a93-492f74954af5" alt="Banner" style="width: 100%; max-width: 1280px;">
+</p>
 
-<!--
-**Mideva-Alma/Mideva-Alma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Hi, I'm Alma Mideva Aileen Itsura
+
+💖 **Student | Software Developer | Full Stack Beginner | Python Pro**  
+🌸 Multilingual coder brain 🧠 and Detail detective 🔍  
+✨ Passionate about creating Web & Android apps  
+
+
+---
+
+## 🔧 Technologies & Tools
+
+| Language / Framework | Usage % |
+|--------------------|---------|
+| Python             | 90%     |
+| PHP                | 10%     |
+| Laravel            | 40%     |
+| React              | 60%     |
+
+💻 Tools: MySQL, Linux, SQL, Windows, PyCharm, Jupyter, Anaconda  
+
+---
+
+## 🌸 GitHub Stats
+
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mideva-Alma&show_icons=true&theme=radical&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mideva-Alma&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 Current Projects
+- Python Laravel Blade API Projects 🐍💻  
+- Building full-stack web apps & experimenting with Android apps 📱  
+
+---
+
+## 🌱 Learning Now
+- Blade Templates 🖌️  
+- Python & Jupyter 🐍  
+- Full Stack Web Development 🌸  
+
+---
+
+## ✨ Skills Progress
+
+| Skill       | Level |
+|------------|-------|
+| Python     | ▰▰▰▰▰▰▰▰▰▰ 90% |
+| PHP        | ▰▰▰▰▱▱▱▱▱▱ 10% |
+| Laravel    | ▰▰▰▰▱▱▱▱▱▱ 40% |
+| React      | ▰▰▰▰▰▰▱▱▱▱ 60% |
+| SQL/MySQL  | ▰▰▰▰▰▰▰▱▱▱ 70% |
+
+---
+
+## 🌟 Fun Facts
+- Multilingual coder brain 🧠  
+- Detail detective 🔍  
+- Sparkle enthusiast ✨💕
+
+---
+
+## 📫 Contact Me
+**Email:** midevaalma@gmail.com   
+**Let's connect & collaborate!** 🌸💖  
+
+---
+
+## 💕 Motivation / Quote
+> "Code like an artist, build like a boss." – PHP Artisan Inspired ✨🎀
+
+---
+
+<!-- <p align="center">
+  <img src="https://i.imgur.com/9n6hR2U.png" alt="Cute Avatar" width="150px" />
+</p> -->
