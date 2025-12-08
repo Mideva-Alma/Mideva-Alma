@@ -17,10 +17,11 @@
 
 | Language / Framework | Usage % |
 |--------------------|---------|
-| Python             | 90%     |
-| PHP                | 10%     |
-| Laravel            | 40%     |
-| React              | 60%     |
+| Python             | 25%     |
+| PHP                | 30%     |
+| Laravel            | 20%     |
+| React              | 05%     |
+| Java               | 20%     |
 
 💻 Tools: MySQL, Linux, SQL, Windows, PyCharm, Jupyter, Anaconda  
 
@@ -52,10 +53,10 @@
 
 | Skill       | Level |
 |------------|-------|
-| Python     | ▰▰▰▰▰▰▰▰▰▰ 90% |
-| PHP        | ▰▰▰▰▱▱▱▱▱▱ 10% |
-| Laravel    | ▰▰▰▰▱▱▱▱▱▱ 40% |
-| React      | ▰▰▰▰▰▰▱▱▱▱ 60% |
+| Python     | ▰▰▰▰▰▰▰▱▱▱ 70% |
+| PHP        | ▰▰▰▰▰▰▱▱▱▱ 60% |
+| Laravel    | ▰▰▰▰▰▱▱▱▱▱ 50% |
+| React      | ▰▰▱▱▱▱▱▱▱▱ 20% |
 | SQL/MySQL  | ▰▰▰▰▰▰▰▱▱▱ 70% |
 
 ---
