@@ -1,84 +1,119 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c25f5970-1461-4edc-9a93-492f74954af5" alt="Banner" style="width: 100%; max-width: 1280px;">
+  <img src="https://github.com/Mideva-Alma/Mideva-Alma/blob/main/namephoto.jpeg" alt="Alma Mideva Aileen Itsura" width="100%">
 </p>
 
+<p align="center"> <strong>Computer Science Student | Software Developer | Full-Stack Developer</strong> </p>
 
-
-# 👋 Hi, I'm Alma Mideva Aileen Itsura
-
-💖 **Student | Software Developer | Full Stack Beginner | Python Pro**  
-🌸 Multilingual coder brain 🧠 and Detail detective 🔍  
-✨ Passionate about creating Web & Android apps  
-
+<p align="center"> <a href="mailto:aileenmideva@gmail.com"> <img src="https://img.shields.io/badge/Email-aileenmideva%40gmail.com-pink?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://github.com/Mideva-Alma"> <img src="https://img.shields.io/badge/GitHub-Mideva--Alma-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
 
 ---
 
-## 🔧 Technologies & Tools
-
-| Language / Framework | Usage % |
-|--------------------|---------|
-| Python             | 25%     |
-| PHP                | 30%     |
-| Laravel            | 20%     |
-| React              | 05%     |
-| Java               | 20%     |
-
-💻 Tools: MySQL, Linux, SQL, Windows, PyCharm, Jupyter, Anaconda  
+## About Me
+I enjoy turning ideas into fully functional software and exploring how different components of a system connect. My work centers on building full-stack web applications, backend systems, and REST APIs, alongside managing databases and application authentication. Currently, I am expanding my skills into mobile development using Swift and SwiftUI, while actively exploring artificial intelligence and machine learning to create smarter, more dynamic applications.
 
 ---
 
-## 🌸 GitHub Stats
+## Tech Stack
+
+**Languages**
+
+`Python` `PHP` `Java` `JavaScript` `Swift`
+
+**Web & Backend**
+
+`React` `Laravel` `Flask` `Blade` `HTML` `CSS` `REST APIs`
+
+**Databases**
+
+`MySQL` `SQL` `SQLite`
+
+**Tools**
+
+`Git` `GitHub` `Linux` `VS Code` `Jupyter` `PyCharm`
+
+---
+
+## Projects
+
+* **QuickBite** — Restaurant ordering system
+* **Productivity API** — Flask REST API
+* **Workout Backend** — Workout tracking API
+* **Text-Based Scam Detection** — Mobile + ML project
+* **DailyQuest** — Gamified productivity app
+* **Personal Budget System** — Student budgeting application
+* **TuneIt** — Music application
+
+---
+
+## Currently Learning
+
+`React` `Flask` `SQL` `REST APIs` `Authentication` `Swift` `SwiftUI` `Machine Learning`
+
+---
+
+## Education
+
+### Strathmore University
+
+**Bachelor of Science in Informatics and Computer Sciences**
+Third Year
+
+Areas of study include:
+
+`Programming` `Databases` `Networking` `Data Structures & Algorithms` `Computer Graphics` `Automata` `Operations Research` `Research Methods` `Assembly & Microprocessors`
+
+### Moringa School
+
+**Full-Stack Development Training**
+
+---
+
+## Leadership
+
+**Secretary, Strathmore Investing Club**
+
+Contributing to administration, communication, coordination, and student collaboration.
+
+---
+
+## Interests
+
+```text
+Full-Stack Development
+├── Core Web Tech
+│   ├── Frontend
+│   ├── Backend
+│   ├── APIs
+│   └── Databases
+├── Mobile Development
+└── AI & Machine Learning
+```
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Mideva-Alma&show_icons=true&theme=radical&count_private=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mideva-Alma&layout=compact&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mideva-Alma&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mideva-Alma&layout=compact&hide_border=true" alt="Top Languages">
 </p>
 
 ---
 
-## 🔥 Current Projects
-- Python Laravel Blade API Projects 🐍💻  
-- Building full-stack web apps & experimenting with Android apps 📱  
+## A Little About Me
+
+* I enjoy understanding how systems work, not just making them work.
+* I like moving between frontend, backend, and databases.
+* I'm particularly interested in mobile development and iOS.
+* I enjoy experimenting with new technologies through projects.
+* I'm always learning, building, and improving.
 
 ---
 
-## 🌱 Learning Now
-- Blade Templates 🖌️  
-- Python & Jupyter 🐍  
-- Full Stack Web Development 🌸  
+## Let's Connect
 
----
+**Email:** [aileenmideva@gmail.com](mailto:aileenmideva@gmail.com)
 
-## ✨ Skills Progress
+**GitHub:** [github.com/Mideva-Alma](https://github.com/Mideva-Alma)
 
-| Skill       | Level |
-|------------|-------|
-| Python     | ▰▰▰▰▰▰▰▱▱▱ 70% |
-| PHP        | ▰▰▰▰▰▰▱▱▱▱ 60% |
-| Laravel    | ▰▰▰▰▰▱▱▱▱▱ 50% |
-| React      | ▰▰▱▱▱▱▱▱▱▱ 20% |
-| SQL/MySQL  | ▰▰▰▰▰▰▰▱▱▱ 70% |
-
----
-
-## 🌟 Fun Facts
-- Multilingual coder brain 🧠  
-- Detail detective 🔍  
-- Sparkle enthusiast ✨💕
-
----
-
-## 📫 Contact Me
-**Email:** midevaalma@gmail.com   
-**Let's connect & collaborate!** 🌸💖  
-
----
-
-## 💕 Motivation / Quote
-> "Code like an artist, build like a boss." – PHP Artisan Inspired ✨🎀
-
----
-
-<!-- <p align="center">
-  <img src="https://i.imgur.com/9n6hR2U.png" alt="Cute Avatar" width="150px" />
-</p> -->
+> Building, learning, debugging, and creating, one project at a time.
